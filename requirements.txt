@@ -1,0 +1,4 @@
+telethon>=1.28.5
+pyrogram>=2.0.106
+pandas>=1.5.3
+tgcrypto>=1.2.5
